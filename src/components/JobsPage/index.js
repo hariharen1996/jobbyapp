@@ -4,9 +4,9 @@ import {BsSearch} from 'react-icons/bs'
 import Cookies from 'js-cookie'
 import Loader from 'react-loader-spinner'
 import Header from '../Header/index'
-import JobDetails from '../JobDetails/index'
-import SalaryData from '../SalaryData/index'
-import EmployeeData from '../EmployeeData/index'
+import JobDetails from '../JobDetails'
+import SalaryData from '../SalaryData'
+import EmployeeData from '../EmployeeData'
 import './index.css'
 
 const employmentTypesList = [

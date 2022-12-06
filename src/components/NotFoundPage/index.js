@@ -1,5 +1,5 @@
 import {Component} from 'react'
-import Header from '../Header/index'
+import Header from '../Header'
 import './index.css'
 
 class NotFound extends Component {

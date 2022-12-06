@@ -1,9 +1,9 @@
 import {Component} from 'react'
 import Loader from 'react-loader-spinner'
 import Cookies from 'js-cookie'
-import Header from '../Header/index'
-import JobDescription from '../JobDescription/index'
-import SimilarJobsPage from '../SimilarJobsPage/index'
+import Header from '../Header'
+import JobDescription from '../JobDescription'
+import SimilarJobsPage from '../SimilarJobsPage'
 import './index.css'
 
 const constantTypes = {

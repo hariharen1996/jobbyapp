@@ -1,7 +1,7 @@
 import {Component} from 'react'
 import {Link, Redirect} from 'react-router-dom'
 import Cookies from 'js-cookie'
-import Header from '../Header/index'
+import Header from '../Header'
 import './index.css'
 
 class HomePage extends Component {

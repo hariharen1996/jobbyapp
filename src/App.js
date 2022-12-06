@@ -1,5 +1,5 @@
 import {Route, Switch} from 'react-router-dom'
-import Login from './components/Login/index'
+import Login from './components/Login'
 import HomePage from './components/HomePage/index'
 import ProtectedRoute from './components/ProtectedRoute/index'
 import JobsPage from './components/JobsPage/index'
